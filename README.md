@@ -16,9 +16,11 @@ Create a simple library to use telegram bot.
 2. A json result should be given and there is a field called 'id', and its value will be [[your__id]].
 
 ## Create a file called TgBotConfig.ini with the following contents
+```ini
 [bot]
 MYTOKEN = [[your token]]
 MYID =[[your__id]]
+```
 
 ---
 
